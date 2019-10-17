@@ -6,7 +6,10 @@ header {
     padding: 10px;
 }
 main {
-    margin: 8px;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    font-size: 2rem;
 }
 .links {
     color: whitesmoke;

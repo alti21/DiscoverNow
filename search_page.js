@@ -1,5 +1,5 @@
-var clicked = document.addEventListener("click", function()
+document.querySelector("a").addEventListener("click", function()
     {
-        alert("You are now being redirected to the About page.");
+        alert("You are now being redirected to a different page.");
     }
 );
