@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+}
+header {
+    background: #45486e;
+    padding: 10px;
+}
+main {
+    margin: 8px;
+}
+.links {
+    color: whitesmoke;
+}
